@@ -1,0 +1,5 @@
+checkout 
+stash
+commit
+branches
+status
